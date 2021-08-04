@@ -1,7 +1,7 @@
 ## Installation
 
-- `git clone https://github.com/AnowarCST/laravel-vue-crud-starter.git`
-- `cd laravel-vue-crud-starter/`
+- `git clone https://github.com/naratipjamras/movie-app.git`
+- `cd movie-app/`
 - `composer install`
 - `cp .env.example .env`
 - Update `.env` and set your database credentials
