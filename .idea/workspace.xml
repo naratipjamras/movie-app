@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68bfef34-5b3f-4bf1-9f61-6e422b6689d6" name="Default Changelist" comment="add readme files">
+    <list default="true" id="68bfef34-5b3f-4bf1-9f61-6e422b6689d6" name="Default Changelist" comment="fix files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,6 +213,7 @@
       <workItem from="1628046842564" duration="3179000" />
       <workItem from="1628050791919" duration="4244000" />
       <workItem from="1628058733813" duration="1767000" />
+      <workItem from="1628075901819" duration="719000" />
     </task>
     <task id="LOCAL-00001" summary="add readme files">
       <created>1628070013065</created>
@@ -222,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628070013065</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix files">
+      <created>1628072711326</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628072711326</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,6 +250,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add files" />
     <MESSAGE value="add readme files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add readme files" />
+    <MESSAGE value="fix files" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix files" />
   </component>
 </project>
