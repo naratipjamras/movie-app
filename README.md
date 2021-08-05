@@ -15,4 +15,4 @@
 - `php artisan passport:install`
 - `npm install`
 - `npm run dev`
-- `php artisan serve`"# movie-app" 
+- `php artisan serve`
