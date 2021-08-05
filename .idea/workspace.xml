@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68bfef34-5b3f-4bf1-9f61-6e422b6689d6" name="Default Changelist" comment="fix files">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/MovieSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/MovieSeeder.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,7 +217,7 @@
       <workItem from="1628075901819" duration="719000" />
       <workItem from="1628076802755" duration="1018000" />
       <workItem from="1628121018709" duration="426000" />
-      <workItem from="1628121946334" duration="36000" />
+      <workItem from="1628121946334" duration="1534000" />
     </task>
     <task id="LOCAL-00001" summary="add readme files">
       <created>1628070013065</created>
@@ -261,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628121222435</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fix files">
+      <created>1628122068027</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1628122068027</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
