@@ -1,3 +1,7 @@
+## Laravel Movie App
+- Display Movie List, Preview Movie on Youtube, Stream Movie Online.
+- Register, Login to Admin Backoffice. 
+- Manage CRUD Movie List with OMDB api suggestion feature.  
 ## Installation
 
 - `git clone https://github.com/naratipjamras/movie-app.git`
