@@ -1,3 +1,4 @@
+![alt text](https://github.com/naratipjamras/movie-app/blob/main/MovieApp.PNG)
 ## Laravel Movie App
 - Display Movie List, Preview Movie on Youtube, Stream Movie Online.
 - Register, Login to Admin Backoffice. 
